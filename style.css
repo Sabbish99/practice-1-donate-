@@ -1,5 +1,145 @@
+* {
+    margin: 0px;
+}
+
 body {
     font-family: 'Open Sans', sans-serif;
     font-family: 'Poppins', sans-serif;
 
+}
+
+.header {
+    text-align: center;
+    background-image: url("images/donation3.jpg");
+    background-repeat: no-repeat;
+    padding: 100px 30px;
+    width: 100%;
+
+}
+
+.header-btn {
+    background-color: #FF5959;
+    color: white;
+    padding: 15px 20px;
+    border-radius: 5px;
+    border: 0px;
+}
+
+.header-title {
+    font-size: 65px;
+    font-weight: 800;
+    color: white;
+}
+
+.header-para {
+    color: white;
+}
+
+/* <!-- donate today --> */
+.donate-today div {
+
+    text-align: center;
+}
+
+.donate-header {
+    padding-top: 100px;
+    font-size: 45px;
+    color: #121212;
+}
+
+.donate-para {
+    padding-top: 10px;
+    color: #707070;
+}
+
+.donate-tk {
+    display: flex;
+    justify-content: center;
+}
+
+.donate-tk h3 {
+    margin-top: 30px;
+    padding: 10px 20px;
+
+}
+
+.orange-color {
+    color: #FF5959;
+    background-color: #f0bfbf;
+    border: 2px solid#FF5959;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.amount-taka {
+    border: none;
+    background-color: none;
+    padding: 30px 200px 5px;
+    border-bottom: 2px solid rgb(230, 161, 111);
+}
+
+
+/* our donate plan */
+.donate-plan {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.donate-plan-div {
+    display: flex;
+    text-align: left;
+    margin: 100px 300px;
+
+
+}
+
+.donate-plan-div1 {
+    padding: 30px;
+
+    margin: 20px;
+    background-color: #c1f9ff;
+}
+
+.donate-plan-div2 {
+    padding: 30px;
+
+    margin: 20px;
+    background-color: #f7bdbd;
+}
+
+.donate-plan-div3 {
+    padding: 30px;
+
+    margin: 20px;
+    background-color: rgb(247, 229, 181);
+}
+
+.icon-size {
+    width: 50px;
+}
+
+/* their lives */
+.their-lives {
+    display: flex;
+    align-items: center;
+    padding: 100px 300px;
+
+}
+
+.their-lives-div {
+
+    align-items: center;
+    margin-right: 30px;
+    padding: 30px;
+
+
+}
+
+.their-lives-btn {
+    background-color: #FF5959;
+    color: white;
+    margin-top: 10px;
+    padding: 15px 20px;
+    border-radius: 5px;
+    border: 0px;
 }
