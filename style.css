@@ -76,6 +76,7 @@ body {
     background-color: none;
     padding: 30px 200px 5px;
     border-bottom: 2px solid rgb(230, 161, 111);
+
 }
 
 
@@ -88,7 +89,7 @@ body {
 .donate-plan-div {
     display: flex;
     text-align: left;
-    margin: 100px 300px;
+    margin: 20px 300px;
 
 
 }
@@ -122,7 +123,7 @@ body {
 .their-lives {
     display: flex;
     align-items: center;
-    padding: 100px 300px;
+    padding: 100px 320px 100px 280px;
 
 }
 
