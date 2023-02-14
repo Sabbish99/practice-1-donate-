@@ -144,3 +144,90 @@ body {
     border-radius: 5px;
     border: 0px;
 }
+
+/* their lives 2 */
+.their-lives-2 {
+    display: flex;
+    align-items: center;
+    padding: 50px 280px 100px 320px;
+
+}
+
+.their-lives-div-2 {
+
+    align-items: center;
+    margin-left: 30px;
+    padding: 30px;
+
+
+}
+
+.their-lives-btn-2 {
+    background-color: #FF5959;
+    color: white;
+    margin-top: 10px;
+    padding: 15px 20px;
+    border-radius: 5px;
+    border: 0px;
+}
+
+/* Get my updates */
+.get-my-update {
+    text-align: center;
+
+}
+
+.get-my-update-2 {
+    background-color: #FFF4D6;
+    padding: 75px;
+    margin: 50px 300px 100px 300px;
+}
+
+.email-btn {
+    color: #707070;
+    background-color: #D9D9D9;
+    border: none;
+    padding: 14px 218px 14px 17px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.subscribe-btn {
+    color: white;
+    background-color: #FF5959;
+    padding: 14px 42px;
+    border: none;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.get-my-update-header {
+    font-size: 45px;
+    padding-bottom: 20px;
+}
+
+.get-my-update-para {
+    padding-top: 200px;
+    font-size: 18px;
+    color: #707070;
+}
+
+footer {
+
+    text-align: center;
+    background-color: #0B0D17;
+    padding: 43px 0px 43px 0px;
+
+}
+
+footer h2 {
+    color: #FF5959;
+    font-size: 36px;
+    font-family: 'Lobster', cursive;
+
+}
+
+footer p {
+    color: white;
+    font-size: 14px;
+}
